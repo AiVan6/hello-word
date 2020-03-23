@@ -1,6 +1,6 @@
 # hello-word
 
-hi peaple
+hi people
 
 You=========>
 look===============>              
